@@ -1,5 +1,5 @@
-.header{
-  background-color: #1C2B35;
+.header {
+  background-color: #1c2b35;
   height: 80px;
   display: flex;
   align-items: center;
@@ -8,13 +8,18 @@
   padding-right: 140px;
 }
 
-.header a{
+.header a {
   color: white;
   text-decoration: none;
   font-size: 17px;
   margin-left: 36px;
 }
 
-.header a:hover{
+.header a:hover {
   color: orange;
+}
+
+.btn-login {
+  padding: 4px 16px;
+  margin: 0 16px;
 }
